@@ -1,0 +1,22 @@
+{
+  "name": "my-vue-router",
+  "version": "1.0.0",
+  "description": "1.hash路由\r 2.路由切换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddrppopp/my-vue-router.git"
+  },
+  "keywords": [
+    "vue-router"
+  ],
+  "author": "ddrppopp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddrppopp/my-vue-router/issues"
+  },
+  "homepage": "https://github.com/ddrppopp/my-vue-router#readme"
+}
